@@ -1,0 +1,14 @@
+.g-df-jcc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.g-primary-btn{
+    padding: .5rem 1rem;
+    color: var(--black);
+    background-color: var(--teal);
+    border: 1px solid var(--black);
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
